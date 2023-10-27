@@ -1,0 +1,13 @@
+The fonts were compiled from source using fontmake.
+
+To make the TTF fonts the following command was used
+
+fontmake -u source.ufo -o ttf --output-dir output_folder
+
+The OTF fonts were made from designspace file using fontmake
+
+fontmake -o otf -m your.designspace --output-dir output_directory
+
+The woff2 fonts were made using pyftsubset tool from Fonttools
+
+pyftsubset input.ttf --flavor=woff2 --output-file=output.woff2
