@@ -31,7 +31,7 @@
 6. [Baloo2](https://github.com/EkType/Baloo2/releases/download/1.640/Baloo2_1.640.zip)
 7. [Anek](https://github.com/EkType/Anek/releases/download/1.000/Ek-Type-Anek-Variable-1.002.zip)
 8. [MuktaMalar](https://github.com/EkType/Mukta/releases/download/2.538/Mukta.Font.Family.2.538.zip)
-9. [Hind Madurai](https://github.com/itfoundry/hind-madurai/archive/refs/heads/master.zip)
+9. [Hind Madurai](https://github.com/itfoundry/hind-madurai/archive/3f3bd22/hind-madurai-3f3bd222489daea4dfec65d5de86012ed4819b5b.tar.gz)
 10. [Mooniak/Abhaya Libre](https://github.com/mooniak/abhaya-libre-font/releases/download/v1.060/abhaya-libre-font_v1.060_20170212.zip)
 11. [oi](https://github.com/kosbarts/Oi/archive/refs/heads/main.zip)
 12. [Enathu/aaram](https://github.com/enathu/aaram/releases/download/v1.6/aaram_v1.006.zip)
