@@ -38,6 +38,8 @@ These fonts are prefixed with TSCu
 1. Comic
 2. Paranar
 3. Times
+4. Vaigai-volted
+5. VaigaiUni
 
 # Github/enathu
 

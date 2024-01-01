@@ -20,6 +20,7 @@
 19. Tamu [TAMu](https://packages.debian.org/bookworm/fonts-taml-tamu)
 20. Tscu [TSCu](https://packages.debian.org/bookworm/fonts-taml-tscu)
 21. Akruti [Tamil Linux](https://sourceforge.net/projects/tamillinux/)
+22. indic-suse [indic-suse](https://software.opensuse.org/download/package?package=indic-fonts&project=openSUSE%3ALeap%3A15.0)
 
 ## Download url of Fonts
 
@@ -50,3 +51,4 @@
 25. [Coiny-otf](https://github.com/marcelommp/Coiny/releases/download/v2.0/Coiny-Regular.otf)
 26. [Tiro](https://github.com/TiroTypeworks/Indigo/archive/c5f23cb/Tiro-c5f23cb391c99bb3e5c3308568c31319e2e7fbd1.tar.gz)
 27. [Yaldevi](https://github.com/mooniak/yaldevi-font/releases/download/1.100/YaldeviFont_v1.100.zip)
+28. [indic-suse](https://download.opensuse.org/repositories/openSUSE:/Leap:/15.0/standard/noarch/indic-fonts-20160512-lp150.1.40.noarch.rpm)

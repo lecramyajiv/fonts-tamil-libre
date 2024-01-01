@@ -1,0 +1,115 @@
+15 June 2005 Amish Munshi (amunshi@novell.com)
+        Removed all fonts due to font name selection issue. (Refer to README)
+	Rearranged the folder structure according to languages.
+	Updated the CREDITS file.
+	Some fonts provided by FSF/Akruti had to be removed since they might have copyright issues. (http://www.fsf.org.in/software/software.html#akruti)
+	Add following fonts from their sources.
+		kannada/knd1-b.ttf
+		kannada/knd1-n.ttf
+		kannada/Sampige.ttf
+		oriya/utkal.ttf
+		oriya/ori1-b.ttf
+		oriya/ori1-n.ttf
+		tamil/lohit_ta.ttf
+		tamil/TSCu_Vaigai_volted.ttf
+		tamil/TSCu_Times.ttf
+		tamil/TAMu_Kadampari.ttf
+		tamil/TAMu_Maduram.ttf
+		tamil/VaigaiUni.ttf
+		tamil/TAMu_Kalyani.ttf
+		tamil/TSCu_paranarb.ttf
+		tamil/TSCu_paranari.ttf
+		tamil/tml1-b.ttf
+		tamil/tml1-n.ttf
+		tamil/TSCu_Comic.ttf
+		tamil/TSCu_Paranar.ttf
+		malayalam/RachanaMedium.ttf
+		malayalam/mal2-b.ttf
+		malayalam/mal2-n.ttf
+		malayalam/malayalam.ttf
+		telugu/Vemana.ttf
+		telugu/Pothana2000.ttf
+		telugu/tlg2-b.ttf
+		telugu/tlg2-n.ttf
+		gujrati/guj1-b.ttf
+		gujrati/guj1-n.ttf
+		gujrati/padmaa-Medium-0.5.ttf
+		gujrati/Rekha-medium.ttf
+		gujrati/padmaa-Bold.0.6.ttf
+		gujrati/lohit_gu.ttf
+		gujrati/aakar-medium.ttf
+		devnagri/Gargi_1.7.ttf
+		devnagri/dev2-n.ttf
+		devnagri/lohit_hi.ttf
+		bengali/MuktiNarrow.ttf
+		bengali/bng2-b.ttf
+		bengali/bng2-n.ttf
+		bengali/MuktiNarrowBold.ttf
+		bengali/mitra.ttf
+		bengali/ani.ttf
+		bengali/sagarnormal.ttf
+		bengali/lohit_bn.ttf
+		bengali/AkaashNormal.ttf
+		bengali/LikhanNormal.ttf
+		gurmukhi/AnmolUniHeavy.ttf
+		gurmukhi/pnj2-b.ttf
+		gurmukhi/pnj2-n.ttf
+		gurmukhi/AnmolUniBaniHeavy.ttf
+		gurmukhi/AnmolUni-Bold.ttf
+		gurmukhi/Saab.otf
+		gurmukhi/AnmolUni.ttf
+		gurmukhi/AnmolUniBani-Bold.ttf
+		gurmukhi/AnmolUniBani.ttf
+		gurmukhi/lohit_pa.ttf
+
+4 Dec 2004 Amish Munshi (amunshi@novell.com)
+	Added LICENSE
+	Added README
+	Added CHANGELOG
+	Added AUTHORS
+	Added following fonts 
+		Punjabi_Lohit.ttf
+		Gujrati_Padmaa-Bold-0.5.ttf
+		Bengali_Lohit.ttf
+		Kannada_Sampige.ttf
+		Bengali_LikhanNormal.ttf
+		Telgu_Pothana2000.ttf
+		Gujrati_Padmaa-Medium-0.5.ttf
+		Tamil_Akruti1b.ttf
+		Tamil_Akruti2b.ttf
+		Tamil_Lohit.ttf
+		Hindi_Lohit.ttf
+		Bengali_MuktiNarrow.ttf
+		Bengali_SagarNormal.ttf
+		Gujrati_Lohit.ttf
+		Bengali_MuktiNarrow-Bold.ttf
+		Tamil_Akruti1.ttf
+		Tamil_Akruti2.ttf
+		Hindi_Gargi.ttf
+		fonts/Tamil_Paranarb.ttf
+		fonts/Tamil_Paranari.ttf
+		fonts/Tamil_Kalyani.ttf
+		fonts/Tamil_Kadampari.ttf
+		fonts/Bengali_AkaashNormal.ttf
+		fonts/Tamil_Paranar.ttf
+		fonts/Malayalam_mal1-b.ttf
+		fonts/Malayalam_mal1-n.ttf
+		fonts/Malayalam_mal2-b.ttf
+		fonts/Tamil_Comic.ttf
+		fonts/Malayalam_mal2-n.ttf
+		fonts/Bengali_ani.ttf
+		fonts/Malayalam_MalOtf.ttf
+		fonts/Tamil_Times.ttf
+		fonts/Punjabi_GurbaniBolLite.ttf
+		fonts/Malayalam_malayalam.ttf
+		fonts/Oriya_Oriya.ttf
+		fonts/Tamil_Maduram.ttf
+		fonts/Punjabi_Gbolilite.ttf
+
+
+	Changed the file names to Language_FontName standard.
+	Changed the font names to Language_FontName standard using PfaEdit. 
+	Modified EM to a power of 2 (increased it for some fonts only).
+	Tamil font from Lohit was not included, it was not working.
+	Tamil font from Akruti (Tamil_Akruti1.ttf) was not included, it was not working.
+	Oriya font oriya (Oriya_oriya.ttf) was not included, it was not working.

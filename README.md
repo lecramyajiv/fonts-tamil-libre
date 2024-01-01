@@ -15,6 +15,7 @@ The fonts are from
 6. TAMu and TSCu series fonts.
 7. Akruti Font From Tamil Linux
 8. Lohit Font
+9. OpenSuse Linux
 
 The Homepages and download urls are in URL.md file.
 The list of the fonts included are in FONTS.md file. 

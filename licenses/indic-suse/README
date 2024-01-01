@@ -1,0 +1,13 @@
+4 Dec 2004.
+-----------
+This package contains fonts used from various locations combined in an easy to use single package containing all Indian fonts.
+
+If you wish to include fonts in this package then please contact Amish Munshi (amunshi@novell.com)
+
+
+
+15 June 2005.
+------------
+Removed all fonts due to bad name selection issues. If we use the LangName_FontName convention then documents will hardcode this naming convention in the documents causing interoprability issues.
+
+

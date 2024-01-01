@@ -1,0 +1,3 @@
+Q. OpenOffice does not display Hindi properly.
+A. After changing the input method using the flag, type some text, openoffice will not display it properly. Then select the typed text, then select either Hindi_Lohit or Hindi_Gargi font.
+
