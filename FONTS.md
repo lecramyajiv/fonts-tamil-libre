@@ -38,8 +38,6 @@ These fonts are prefixed with TSCu
 1. Comic
 2. Paranar
 3. Times
-4. Vaigai-volted
-5. VaigaiUni
 
 # Github/enathu
 
@@ -65,3 +63,8 @@ ila-sundaram-unicode fonts
 # Tamil Linux
 
 1. Akruti
+
+# OpenSuse Linux
+
+1. Tscu Vaigai volt
+2. Vaigai Uni
