@@ -18,6 +18,7 @@
 12. Mooniak/Post-no-bills
 13. Mooniak/abhaya libre
 14. Mooniak/Yaldevi
+15. Karla
 
 # Android/googlesource
 
@@ -68,3 +69,31 @@ ila-sundaram-unicode fonts
 
 1. Tscu Vaigai volt
 2. Vaigai Uni
+
+# Kadugu
+
+1. TAU-kaviri
+2. TAU-kollidam
+3. TAU-palar
+4. TAU-ponni
+5. TAU-porunai
+6. TAU-pothigai
+7. TAU-thamirabharani
+
+# Umar
+
+1. ThendralUni
+2. TheneeUni
+
+# Agam Type Foundry [S Ganga Prasath]
+
+1. Madurai
+
+# Chemmozhi
+
+1.  Comic
+2. Paranar
+3. Thendral
+4. Thenee
+5. Times
+6. Vaigai

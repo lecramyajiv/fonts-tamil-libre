@@ -16,6 +16,11 @@ The fonts are from
 7. Akruti Font From Tamil Linux
 8. Lohit Font
 9. OpenSuse Linux
+10. Neechalkaran/Kadugu
+11. Neechalkaran/Umar
+12. Agam Type Foundry
+13. Neechalkaran/Chemmozhi
+
 
 The Homepages and download urls are in URL.md file.
 The list of the fonts included are in FONTS.md file. 

@@ -21,6 +21,11 @@
 20. Tscu [TSCu](https://packages.debian.org/bookworm/fonts-taml-tscu)
 21. Akruti [Tamil Linux](https://sourceforge.net/projects/tamillinux/)
 22. indic-suse [indic-suse](https://software.opensuse.org/download/package?package=indic-fonts&project=openSUSE%3ALeap%3A15.0)
+23. Googlefonts/karla[karla](https://github.com/googlefonts/karla)
+24. Github/Madurai [Madurai](https://github.com/sgangaprasath/madurai/)
+25. Neechalkaran/kadugu [Kadugu](https://oss.neechalkaran.com/tamilfonts/)
+26. Neechalkaran/Umar [Umar](https://oss.neechalkaran.com/tamilfonts/)
+27. Neechalkaran/Chemmozhi [Chemmozhi](https://oss.neechalkaran.com/tamilfonts/)
 
 ## Download url of Fonts
 
@@ -52,3 +57,8 @@
 26. [Tiro](https://github.com/TiroTypeworks/Indigo/archive/c5f23cb/Tiro-c5f23cb391c99bb3e5c3308568c31319e2e7fbd1.tar.gz)
 27. [Yaldevi](https://github.com/mooniak/yaldevi-font/releases/download/1.100/YaldeviFont_v1.100.zip)
 28. [indic-suse](https://download.opensuse.org/repositories/openSUSE:/Leap:/15.0/standard/noarch/indic-fonts-20160512-lp150.1.40.noarch.rpm)
+29. [Karla](https://github.com/neechalkaran/neechalkaran.github.io/tree/master/tamilfonts/Aotherfonts)
+30. [Kadugu](https://github.com/neechalkaran/neechalkaran.github.io/tree/master/tamilfonts/9kadugu)
+31.  [Umar](https://github.com/neechalkaran/neechalkaran.github.io/tree/master/tamilfonts/Aotherfonts)
+32. [Madurai](https://github.com/sgangaprasath/madurai/archive/1185217/madurai-1185217.tar.gz)
+33. [Chemmozhi](https://github.com/neechalkaran/neechalkaran.github.io/tree/master/tamilfonts/Aotherfonts)
