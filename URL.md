@@ -26,6 +26,7 @@
 25. Neechalkaran/kadugu [Kadugu](https://oss.neechalkaran.com/tamilfonts/)
 26. Neechalkaran/Umar [Umar](https://oss.neechalkaran.com/tamilfonts/)
 27. Neechalkaran/Chemmozhi [Chemmozhi](https://oss.neechalkaran.com/tamilfonts/)
+28. Notofonts/Tamilsupplement [Tamilsupplement](https://github.com/notofonts/NotoSansTamilSupplement)
 
 ## Download url of Fonts
 
@@ -62,3 +63,4 @@
 31.  [Umar](https://github.com/neechalkaran/neechalkaran.github.io/tree/master/tamilfonts/Aotherfonts)
 32. [Madurai](https://github.com/sgangaprasath/madurai/archive/1185217/madurai-1185217.tar.gz)
 33. [Chemmozhi](https://github.com/neechalkaran/neechalkaran.github.io/tree/master/tamilfonts/Aotherfonts)
+34. [Tamilsupplement](https://fonts.google.com/noto/specimen/Noto+Sans+Tamil+Supplement/about)

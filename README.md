@@ -21,6 +21,9 @@ The fonts are from
 12. Agam Type Foundry
 13. Neechalkaran/Chemmozhi
 
+This collection also contains Tamil supplement
+font from Google.Tamil Supplement is a Unicode
+block containing  Tamil historic fractions and symbols
 
 The Homepages and download urls are in URL.md file.
 The list of the fonts included are in FONTS.md file. 
